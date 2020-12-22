@@ -66,7 +66,6 @@
   <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
-
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
           <h1>Search</h1>
@@ -75,74 +74,49 @@
           <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
         </div>
       </div>
-
       <div id="search-box">
-        
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
         autocomplete="off" autocorrect="off" spellcheck="false" type="search">
-        
       </div>
-
     </section>
     <section class="section-search-results">
-
       <div id="search-hits">
-        
       </div>
-
     </section>
   </div>
 </aside>
 
 
-
-
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
-
-    
     <div class="d-none d-lg-inline-flex">
       <a class="navbar-brand" href="/">Chien-Lun Chen</a>
     </div>
-    
 
-    
     <button type="button" class="navbar-toggler" data-toggle="collapse"
             data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fas fa-bars"></i></span>
     </button>
-    
 
-    
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
       <a class="navbar-brand" href="/">Chien-Lun Chen</a>
     </div>
-    
 
     <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
-
       <ul class="navbar-nav d-md-inline-flex">
 
         <li class="nav-item">
           <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
         </li>
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
-        </li>
-
         <li class="nav-item">
           <a class="nav-link " href="/#featured" data-target="#featured"><span>Publications</span></a>
         </li>
-
         <li class="nav-item">
           <a class="nav-link " href="/#experience" data-target="#experience"><span>Experience</span></a>
         </li>
-
         <li class="nav-item">
           <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
         </li>
-
         <li class="nav-item">
           <a class="nav-link " href="/files/ben_london_cv.pdf"><span>CV</span></a>
         </li>
@@ -222,11 +196,8 @@
     
     <h1>About Me</h1>
 
-    <p>I am a Researcher at University of Southern California.
-Broadly speaking, I research machine learning theory and algorithms, using theoretical analysis to inform the design of new ML algorithms.</p>
-<p>I earned my Ph.D. in 2015 at University of Maryland, where I was advised by Lise Getoor and worked closely with Ben Taskar and Bert Huang.
-My dissertation studied generalization in structured learning, and its relationship to the algorithmic stability of collective inference.
-I have also worked on: generalization guarantees for randomized learning (such as stochastic gradient methods); recommendation/personalization systems; contextual multi-armed bandits; and counterfactual learning from logged bandit feedback.</p>
+    <p>I am a Researcher at University of Southern California.</p>
+		<!-- <p>I earned my Ph.D. in ...</p> -->
 <!-- 
 Chien-Lun Chen is a Researcher at University of Southern California, where he is a member of the Music ML team.
 Prior to that, he worked for Amazon.com's Core ML team. 
@@ -244,13 +215,10 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>Statistical Learning Theory</li>
-          
-          <li>Structured Prediction and Probabilistic Graphical Models</li>
-          
-          <li>Bandits and Learning from Logged Bandit Feedback</li>
-          
-          <li>Recommendation and Personalization</li>
+          <li>Data Privacy</li>
+          <li>Security and Privacy in Machine Learning</li>
+          <li>Machine Learning</li>
+          <li>Communications and Signal Processing</li>
           
         </ul>
       </div>
@@ -264,31 +232,28 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Computer Science, 2015</p>
-              <p class="institution">University of Maryland</p>
+              <p class="course">Ph.D. in Electrical Engineering, 2020</p>
+              <p class="institution">University of Southern California</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">MSc in Computer Science, 2008</p>
-              <p class="institution">Columbia University</p>
+              <p class="course">M.S. in Communications Engineering, 2009</p>
+              <p class="institution">National Taiwan University, Taiwan</p>
             </div>
           </li>
           
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">BMu in Music Technology, 2001</p>
-              <p class="institution">New York University</p>
+              <p class="course">B.S. in Atomic Science, 2004</p>
+              <p class="institution">National Tsing Hua University, Taiwan</p>
             </div>
           </li>
-          
         </ul>
       </div>
-      
-
     </div>
   </div>
 </div>
@@ -296,769 +261,111 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
     </div>
   </section>
 
-  
-  
-  
 
-  
 
-  
 
-  
 
-  
 
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="posts" class="home-section wg-pages   "  >
-    <div class="container">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>Recent Posts</h1>
-    
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
-
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/neurips_2020/" >NeurIPS 2020</a>
-    </h3>
-
-    
-    <div class="article-style">
-      I will serve as an area chair for <a href="https://neurips.cc/Conferences/2020">NeurIPS 2020</a>.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Mar 15, 2020
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/icml_ijcai_2020/" >ICML &amp; IJCAI 2020 </a>
-    </h3>
-
-    
-    <div class="article-style">
-      I will serve as an area chair for <a href="https://icml.cc/Conferences/2020">ICML 2020</a> and a Sr. PC member for <a href="https://ijcai20.org/">IJCAI 2020</a>.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jan 17, 2020
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/mlwg_workshop/" >NeurIPS Workshop: ML with Guarantees</a>
-    </h3>
-
-    
-    <div class="article-style">
-      I am co-organizing the NeurIPS 2019 <a href="https://sites.google.com/view/mlwithguarantees">Workshop on Machine Learning with Guarantees</a>.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Dec 14, 2019
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-
-    
-
-  </div>
-</div>
-
-    </div>
-  </section>
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
 
   <section id="featured" class="home-section wg-featured   "  >
     <div class="container">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>Featured Publications</h1>
+    <h1>Publications</h1>
     
   </div>
   <div class="col-12 col-lg-8">
 
-    
-
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-  
-  
 
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <a href="/publication/london-icml-19/" >Bayesian Counterfactual Risk Minimization</a>
-
-  
-
-  
   <div class="article-metadata">
-    
-
-
-
-  
   <span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>, <span><a href="/authors/ted-sandler/">Ted Sandler</a></span>
-
   </div>
-  
-
-  
   <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/papers/london-icml19.pdf" target="_blank" rel="noopener">
   PDF
 </a>
-
-
-
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
         data-filename="/publication/london-icml-19/cite.bib">
   Cite
 </button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   </div>
-  
-
 </div>
 
       
     
-      
-        
-
-
-
-
-
-
-
-
-
-
-  
-  
-
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <a href="/publication/meshi-jmlr-19/" >Train and Test Tightness of LP Relaxations in Structured Prediction</a>
-
-  
-
-  
   <div class="article-metadata">
-    
-
-
-
-  
   <span><a href="/authors/ofer-meshi/">Ofer Meshi</a></span>, <span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>, <span><a href="/authors/david-weller/">David Weller</a></span>, <span><a href="/authors/david-sontag/">David Sontag</a></span>
-
   </div>
-  
-
-  
   <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/papers/meshi-jmlr19.pdf" target="_blank" rel="noopener">
   PDF
 </a>
-
-
-
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
         data-filename="/publication/meshi-jmlr-19/cite.bib">
   Cite
 </button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   </div>
-  
-
 </div>
 
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-  
-  
 
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <a href="/publication/london-nips-17/" >A PAC-Bayesian Analysis of Randomized Learning with Application to Stochastic Gradient Descent</a>
-
-  
-
-  
   <div class="article-metadata">
-    
-
-
-
-  
   <span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>
-
   </div>
-  
-
-  
   <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/papers/london-nips17.pdf" target="_blank" rel="noopener">
   PDF
 </a>
-
-
-
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
         data-filename="/publication/london-nips-17/cite.bib">
   Cite
 </button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   </div>
-  
-
 </div>
 
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-  
-  
 
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <a href="/publication/london-jmlr-16/" >Stability and Generalization in Structured Prediction</a>
-
-  
-
-  
   <div class="article-metadata">
-    
-
-
-
-  
   <span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>, <span><a href="/authors/bert-huang/">Bert Huang</a></span>, <span><a href="/authors/lise-getoor/">Lise Getoor</a></span>
-
   </div>
-  
-
-  
   <div class="btn-links">
-    
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
 <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/papers/london-jmlr16.pdf" target="_blank" rel="noopener">
   PDF
 </a>
-
-
-
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
         data-filename="/publication/london-jmlr-16/cite.bib">
   Cite
 </button>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   </div>
-  
-
 </div>
 
       
-    
-
+<!-- 
     <div class="see-all">
       <a href="/publication/">
         See all publications
         <i class="fas fa-angle-right"></i>
       </a>
     </div>
-
+-->
+    
   </div>
 </div>
-
     </div>
   </section>
 
@@ -1310,7 +617,103 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   
 
   
+<!-- 
+  <section id="posts" class="home-section wg-pages   "  >
+    <div class="container">
 
+
+<div class="row">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Recent Posts</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+
+
+<div class="media stream-item">
+  <div class="media-body">
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/neurips_2020/" >NeurIPS 2020</a>
+    </h3>
+    <div class="article-style">
+      I will serve as an area chair for <a href="https://neurips.cc/Conferences/2020">NeurIPS 2020</a>.
+    </div>
+    <div class="stream-meta article-metadata">
+
+<div class="article-metadata">
+  <span class="article-date">
+    Mar 15, 2020
+  </span>
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+</div>
+    </div>
+  </div>
+  <div class="ml-3">
+  </div>
+</div>
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/icml_ijcai_2020/" >ICML &amp; IJCAI 2020 </a>
+    </h3>
+    <div class="article-style">
+      I will serve as an area chair for <a href="https://icml.cc/Conferences/2020">ICML 2020</a> and a Sr. PC member for <a href="https://ijcai20.org/">IJCAI 2020</a>.
+    </div>
+    <div class="stream-meta article-metadata">
+
+<div class="article-metadata">
+  <span class="article-date">
+    Jan 17, 2020
+  </span>
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+</div>
+    </div>
+  </div>
+  <div class="ml-3">
+  </div>
+</div>
+
+ 
+ 
+
+<div class="media stream-item">
+  <div class="media-body">
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/mlwg_workshop/" >NeurIPS Workshop: ML with Guarantees</a>
+    </h3>
+    <div class="article-style">
+      I am co-organizing the NeurIPS 2019 <a href="https://sites.google.com/view/mlwithguarantees">Workshop on Machine Learning with Guarantees</a>.
+    </div>
+    <div class="stream-meta article-metadata">
+
+<div class="article-metadata">
+  <span class="article-date">
+    Dec 14, 2019
+  </span>
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+</div>
+    </div>
+  </div>
+  <div class="ml-3">
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+  </section>
+-->
   
 
   
