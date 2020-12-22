@@ -118,7 +118,7 @@
           <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="/files/ben_london_cv.pdf"><span>CV</span></a>
+          <a class="nav-link " href="/files/CV_Chien_Lun_Chen.pdf"><span>CV</span></a>
         </li>
 
       </ul>
@@ -214,21 +214,16 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
       <div class="col-md-5">
         <h3>Interests</h3>
         <ul class="ul-interests">
-          
           <li>Data Privacy</li>
-          <li>Security and Privacy in Machine Learning</li>
           <li>Machine Learning</li>
+          <li>Security and Privacy in ML</li>
           <li>Communications and Signal Processing</li>
-          
         </ul>
       </div>
-      
 
-      
       <div class="col-md-7">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
-          
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
@@ -236,7 +231,6 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
               <p class="institution">University of Southern California</p>
             </div>
           </li>
-          
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
