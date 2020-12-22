@@ -1,0 +1,8 @@
+-qiC2t%Pn%s%uN0I0%I0p7H0%kQA25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "" -%l "zh_TW, en, *" https://blondon.github.io/ -O1 "C:\Users\User\Desktop\Website\website" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+File generated automatically on Mon, 21 Dec 2020 18:36:09, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
