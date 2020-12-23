@@ -39,11 +39,11 @@
 
   <!------------------------------------------------------------------- START ------------------------------------------------------------------->
 
-  <link rel="canonical" href="https://chienlun.github.io/publication/backdoor-spicyfl-20/">
+  <link rel="canonical" href="https://chienlun.github.io/publication/atr-privacy-21/">
   <meta property="og:site_name" content="Chien-Lun Chen">
-  <meta property="og:url" content="https://chienlun.github.io/publication/backdoor-spicyfl-20/">
-  <meta property="og:title" content="Backdoor Attacks on Federated Meta Learning | Chien-Lun Chen">
-  <meta property="og:description" content="Federated learning allows multiple users to collaboratively train a shared classification model while preserving data privacy. This approach, where model updates are aggregated by a central server, was shown to be vulnerable to poisoning backdoor attacks: a malicious user can alter the shared model to arbitrarily classify specific inputs from a given class. In this paper, we analyze the effects of backdoor attacks on federated meta-learning, where users train a model that can be adapted to different sets of output classes using only a few examples. While the ability to adapt could, in principle, make federated learning frameworks more robust to backdoor attacks (when new training examples are benign), we find that even 1-shot attacks can be very successful and persist after additional training. To address these vulnerabilities, we propose a defense mechanism inspired by matching networks, where the class of an input is predicted from the similarity of its features with a support set of labeled examples. By removing the decision logic from the model shared with the federation, success and persistence of backdoor attacks are greatly reduced."><meta property="og:image" content="https://chienlun.github.io/images/CL-512x512.png">
+  <meta property="og:url" content="https://chienlun.github.io/publication/atr-privacy-21/">
+  <meta property="og:title" content="Achieving Transparency Report Privacy in Linear Time | Chien-Lun Chen">
+  <meta property="og:description" content="An accountable algorithmic transparency report (ATR) should ideally investigate the (a) transparency of the underlying algorithm, and (b) fairness of the algorithmic decisions, and at the same time preserve data subjects' privacy. However, a provably formal study of the impact to data subjects' privacy caused by the utility of releasing an ATR (that investigates transparency and fairness), is yet to be addressed in the literature. The far-fetched benefit of such a study lies in the methodical characterization of privacy-utility trade-offs for release of ATRs in public, and their consequential application-specific impact on the dimensions of society, politics, and economics. In this paper, we first investigate and demonstrate potential privacy hazards brought on by the deployment of transparency and fairness measures in released ATRs. To preserve data subjects' privacy, we then propose a linear-time optimal-privacy scheme, built upon standard linear fractional programming (LFP) theory, for announcing ATRs, subject to constraints controlling the tolerance of privacy perturbation on the utility of transparency schemes. Subsequently, we quantify the privacy-utility trade-offs induced by our scheme, and analyze the impact of privacy perturbation on fairness measures in ATRs. To the best of our knowledge, this is the first analytical work that simultaneously addresses trade-offs between the triad of privacy, utility, and fairness, applicable to algorithmic transparency reports."><meta property="og:image" content="https://chienlun.github.io/images/CL-512x512.png">
 
   <meta property="article:published_time" content="2020-12-22T19:49:07&#43;00:00">
   <meta property="article:modified_time" content="2020-12-22T00:00:00&#43;00:00">
@@ -54,9 +54,9 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://chienlun.github.io/publication/backdoor-spicyfl-20/"
+    "@id": "https://chienlun.github.io/publication/atr-privacy-21/"
   },
-  "headline": "Backdoor Attacks on Federated Meta Learning",
+  "headline": "Achieving Transparency Report Privacy in Linear Time",
   
   "datePublished": "2020-12-22T19:49:07Z",
   "dateModified": "2020-1222T00:00:00Z",
@@ -74,10 +74,10 @@
       "url": "img/https://chienlun.github.io/"
     }
   },
-  "description": "Federated learning allows multiple users to collaboratively train a shared classification model while preserving data privacy. This approach, where model updates are aggregated by a central server, was shown to be vulnerable to poisoning backdoor attacks: a malicious user can alter the shared model to arbitrarily classify specific inputs from a given class. In this paper, we analyze the effects of backdoor attacks on federated meta-learning, where users train a model that can be adapted to different sets of output classes using only a few examples. While the ability to adapt could, in principle, make federated learning frameworks more robust to backdoor attacks (when new training examples are benign), we find that even 1-shot attacks can be very successful and persist after additional training. To address these vulnerabilities, we propose a defense mechanism inspired by matching networks, where the class of an input is predicted from the similarity of its features with a support set of labeled examples. By removing the decision logic from the model shared with the federation, success and persistence of backdoor attacks are greatly reduced."
+  "description": "An accountable algorithmic transparency report (ATR) should ideally investigate the (a) transparency of the underlying algorithm, and (b) fairness of the algorithmic decisions, and at the same time preserve data subjects' privacy. However, a provably formal study of the impact to data subjects' privacy caused by the utility of releasing an ATR (that investigates transparency and fairness), is yet to be addressed in the literature. The far-fetched benefit of such a study lies in the methodical characterization of privacy-utility trade-offs for release of ATRs in public, and their consequential application-specific impact on the dimensions of society, politics, and economics. In this paper, we first investigate and demonstrate potential privacy hazards brought on by the deployment of transparency and fairness measures in released ATRs. To preserve data subjects' privacy, we then propose a linear-time optimal-privacy scheme, built upon standard linear fractional programming (LFP) theory, for announcing ATRs, subject to constraints controlling the tolerance of privacy perturbation on the utility of transparency schemes. Subsequently, we quantify the privacy-utility trade-offs induced by our scheme, and analyze the impact of privacy perturbation on fairness measures in ATRs. To the best of our knowledge, this is the first analytical work that simultaneously addresses trade-offs between the triad of privacy, utility, and fairness, applicable to algorithmic transparency reports."
 }
 </script>
-  <title>Backdoor Attacks on Federated Meta Learning | Chien-Lun Chen</title>
+  <title>Achieving Transparency Report Privacy in Linear Time | Chien-Lun Chen</title>
 </head>
 
   <!------------------------------------------------------------------ END ----------------------------------------------------------------------->
@@ -184,28 +184,30 @@
   <!------------------------------------------------------------------- START ------------------------------------------------------------------->
   
 <div class="article-container pt-3">
-  <h1>Backdoor Attacks on Federated Meta Learning</h1>
+  <h1>Achieving Transparency Report Privacy in Linear Time</h1>
 <div class="article-metadata">
   <div>
   <!--<span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>, <span><a href="/authors/leana-golubchik/">Leana Golubchik</a></span>-->
-  <span>Chien-Lun Chen, Leana Golubchik, Marco Paolieri</span>
+  <span>Chien-Lun Chen, Leana Golubchik, Ranjan Pal</span>
   </div>
   <span class="article-date">
-    December 2020
+
   </span>
 </div>
 
 <div class="btn-links mb-3">
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/backdoor-spicyfl-20/backdoor-spicyfl-20.pdf" target="_blank" rel="noopener">
+	<!--
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/atr-privacy-21/atr-privacy-21.pdf" target="_blank" rel="noopener">
   PDF
 </a>
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/backdoor-spicyfl-20/backdoor-spicyfl-20-poster.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/atr-privacy-21/atr-privacy-21-poster.pdf" target="_blank" rel="noopener">
   Poster
 </a>
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
-        data-filename="/publication/backdoor-spicyfl-20/cite.bib">
+        data-filename="/publication/atr-privacy-21/cite.bib">
   Cite
 </button>
+-->
 </div>
 </div>
 
@@ -214,7 +216,7 @@
   <div class="article-container">
 
     <h3>Abstract</h3>
-    <p class="pub-abstract">Federated learning allows multiple users to collaboratively train a shared classification model while preserving data privacy. This approach, where model updates are aggregated by a central server, was shown to be vulnerable to poisoning backdoor attacks: a malicious user can alter the shared model to arbitrarily classify specific inputs from a given class. In this paper, we analyze the effects of backdoor attacks on federated meta-learning, where users train a model that can be adapted to different sets of output classes using only a few examples. While the ability to adapt could, in principle, make federated learning frameworks more robust to backdoor attacks (when new training examples are benign), we find that even 1-shot attacks can be very successful and persist after additional training. To address these vulnerabilities, we propose a defense mechanism inspired by matching networks, where the class of an input is predicted from the similarity of its features with a support set of labeled examples. By removing the decision logic from the model shared with the federation, success and persistence of backdoor attacks are greatly reduced.</p>
+    <p class="pub-abstract">An accountable algorithmic transparency report (ATR) should ideally investigate the (a) transparency of the underlying algorithm, and (b) fairness of the algorithmic decisions, and at the same time preserve data subjects' privacy. However, a provably formal study of the impact to data subjects' privacy caused by the utility of releasing an ATR (that investigates transparency and fairness), is yet to be addressed in the literature. The far-fetched benefit of such a study lies in the methodical characterization of privacy-utility trade-offs for release of ATRs in public, and their consequential application-specific impact on the dimensions of society, politics, and economics. In this paper, we first investigate and demonstrate potential privacy hazards brought on by the deployment of transparency and fairness measures in released ATRs. To preserve data subjects' privacy, we then propose a linear-time optimal-privacy scheme, built upon standard linear fractional programming (LFP) theory, for announcing ATRs, subject to constraints controlling the tolerance of privacy perturbation on the utility of transparency schemes. Subsequently, we quantify the privacy-utility trade-offs induced by our scheme, and analyze the impact of privacy perturbation on fairness measures in ATRs. To the best of our knowledge, this is the first analytical work that simultaneously addresses trade-offs between the triad of privacy, utility, and fairness, applicable to algorithmic transparency reports.</p>
     
     <!--
     <h3>Hightlights</h3>
@@ -222,7 +224,6 @@
 	    <li>Showed the effects of a one-shot backdoor attack can persist tens to hundreds of rounds in federated meta-learning; the fast-adaptation ability of meta-learning does not effectively remove backdoors during federated meta-training as well as during fine-tuning.</li>
 	    <li>Proposed an effective local defense mechanism using matching network fine-tuning with customized attention mechanism to eliminate backdoors without a centralized approach inspecting user updates; backdoor accuracy can drop to as low as 0% in only a few iterations</li>
     </ul>
-    -->
 
     <div class="row">
       <div class="col-md-1"></div>
@@ -230,7 +231,6 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
-            <!--<a href="/publication/#1">-->
             <a>
               Conference Proceedings
             </a>
@@ -252,6 +252,7 @@
       <div class="col-md-1"></div>
     </div>
     <div class="d-md-none space-below"></div>
+    -->
    
     <div class="space-below"></div>
     <div class="article-style"></div>
@@ -262,32 +263,32 @@
 <div class="share-box" aria-hidden="true">
   <ul class="share">
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://chienlun.github.io/publication/backdoor-spicyfl-20/&amp;text=Backdoor%20Attacks%20on%20Federated%20Meta-Learning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://chienlun.github.io/publication/atr-privacy-21/&amp;text=Achieving%20Transparency%20Report%20Privacy%20in%20Linear%20Time" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://chienlun.github.io/publication/backdoor-spicyfl-20/&amp;t=Backdoor%20Attacks%20on%20Federated%20Meta-Learning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://chienlun.github.io/publication/atr-privacy-21/&amp;t=Achieving%20Transparency%20Report%20Privacy%20in%20Linear%20Time" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
       <li>
-        <a href="mailto:?subject=Backdoor%20Attacks%20on%20Federated%20Meta-Learning&amp;body=https://chienlun.github.io/publication/backdoor-spicyfl-20/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Achieving%20Transparency%20Report%20Privacy%20in%20Linear%20Time&amp;body=https://chienlun.github.io/publication/atr-privacy-21/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://chienlun.github.io/publication/backdoor-spicyfl-20/&amp;title=Backdoor%20Attacks%20on%20Federated%20Meta-Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://chienlun.github.io/publication/atr-privacy-21/&amp;title=Achieving%20Transparency%20Report%20Privacy%20in%20Linear%20Time" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
       <li>
-        <a href="https://web.whatsapp.com/send?text=Backdoor%20Attacks%20on%20Federated%20Meta-Learning%20https://chienlun.github.io/publication/backdoor-spicyfl-20/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Achieving%20Transparency%20Report%20Privacy%20in%20Linear%20Time%20https://chienlun.github.io/publication/atr-privacy-21/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://chienlun.github.io/publication/backdoor-spicyfl-20/&amp;title=Backdoor%20Attacks%20on%20Federated%20Meta-Learning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://chienlun.github.io/publication/atr-privacy-21/&amp;title=Achieving%20Transparency%20Report%20Privacy%20in%20Linear%20Time" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
