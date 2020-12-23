@@ -654,24 +654,24 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
 
 
-<!--
+
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/london-jmlr-16/" >Stability and Generalization in Structured Prediction</a>
+  <a href="/publication/crn-twc-13/" >End-to-End Virtual MIMO Transmission in Ad Hoc Cognitive Radio Networks</a>
   <div class="article-metadata">
-  <span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>, <span><a href="/authors/bert-huang/">Bert Huang</a></span>, <span><a href="/authors/lise-getoor/">Lise Getoor</a></span>
+  <span>I-Wei Lai, Chien-Lun Chen, Chia-Han Lee, Kwang-Cheng Chen, Ezio Biglieri</span>
   </div>
   <div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/papers/london-jmlr16.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/crn-twc-13/crn-twc-13.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/london-jmlr-16/cite.bib">
+        data-filename="/publication/crn-twc-13/cite.bib">
   Cite
 </button>
   </div>
 </div>
--->
+
       
 <!-- 
     <div class="see-all">
