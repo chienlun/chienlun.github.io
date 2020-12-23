@@ -116,7 +116,7 @@
           <a class="nav-link " href="/#experience" data-target="#experience"><span>Experience</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="/#featured" data-target="#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#featured" data-target="#featured"><span>Research</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
@@ -587,19 +587,23 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   <div class="col-12 col-lg-8">
 
 
-<!--
+
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/london-icml-19/" >Bayesian Counterfactual Risk Minimization</a>
+  <a href="/publication/backdoor-spicyfl-20/" >Backdoor Attacks on Federated Meta Learning</a>
   <div class="article-metadata">
-  <span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>, <span><a href="/authors/ted-sandler/">Ted Sandler</a></span>
+  <!--<span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>, <span><a href="/authors/ted-sandler/">Ted Sandler</a></span>-->
+  <span>Chien-Lun Chen, Leana Golubchik, Marco Paolieri</span>
   </div>
   <div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/papers/london-icml19.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/backdoor-spicyfl-20/backdoor-spicyfl-20.pdf" target="_blank" rel="noopener">
   PDF
 </a>
-<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/london-icml-19/cite.bib">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/backdoor-spicyfl-20/backdoor-spicyfl-20-poster.pdf" target="_blank" rel="noopener">
+  Poster
+</a>
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/backdoor-spicyfl-20/cite.bib">
   Cite
 </button>
   </div>
@@ -607,7 +611,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
       
     
-
+<!--
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
   <a href="/publication/meshi-jmlr-19/" >Train and Test Tightness of LP Relaxations in Structured Prediction</a>
