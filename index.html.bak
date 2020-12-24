@@ -339,12 +339,10 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
 
 
-
-
-
 <!------------------------------------------------------------------- Experience ------------------------------------------------------------------->
 
   <section id="experience" class="home-section wg-experience   "  >
+    
     <div class="container">
 
 <div class="row">
@@ -353,9 +351,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   </div>
   <div class="col-12 col-lg-8">
     
-    
-    
-    
+
     <div class="row experience">
       <div class="col-auto text-center flex-column d-none d-sm-flex">
         <div class="row h-50">
@@ -510,23 +506,18 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
   <!------------------------------------------------------------------- Research ------------------------------------------------------------------->
