@@ -349,18 +349,20 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Researcher</h4>
-            <h4 class="card-title exp-company text-muted my-0">Amazon</h4>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Assistant/Associate</h4>
+            <h4 class="card-title exp-company text-muted my-0">University of Southern California</h4>
             <div class="text-muted exp-meta">
-              Sep 2015 – Present
+              May 2019 – Present
                 <span class="middot-divider"></span>
-                <span>Seattle, WA</span>
+                <span>Los Angeles, CA</span>
             </div>
-            <div class="card-text">I mainly work on bandits and offline policy optimization for recommendation problems.</div>
+            <div class="card-text">Investigated poisoning backdoor attacks and the associated defense methods in federated meta-learning.</div>
           </div>
         </div>
       </div>
     </div>
+    
+    
     
     
     
@@ -382,18 +384,28 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Intern</h4>
-            <h4 class="card-title exp-company text-muted my-0">Google Research</h4>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Teaching Assistant</h4>
+            <h4 class="card-title exp-company text-muted my-0">University of Southern California</h4>
             <div class="text-muted exp-meta">
-              May 2014 – Aug 2014
+              Aug 2014 – Jan 2020
                 <span class="middot-divider"></span>
-                <span>New York, NY</span>
+                <span>Los Angeles, CA</span>
             </div>
-            <div class="card-text">Explored structured prediction methods for WebTables.</div>
+            <div class="card-text">
+			        <ul class="ta">
+			          <li>Applied Cryptography</li>
+			          <li>Introduction to Internetworking</li>
+			          <li>Introduction to Computer Networks</li>
+			          <li>Internet and Cloud Computing</li>
+			          <li>Operating Systems</li>
+			          <li>Seminar in Computer Science Research</li>
+			        </ul>
+            </div>
           </div>
         </div>
       </div>
     </div>
+    
     
     
     
@@ -415,14 +427,47 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Graduate Research Assistant</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://linqs.soe.ucsc.edu/" target="_blank" rel="noopener">University of Maryland, LINQS Lab</a></h4>
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Assistant</h4>
+            <h4 class="card-title exp-company text-muted my-0">University of Southern California</h4>
             <div class="text-muted exp-meta">
-              Jan 2011 – Sep 2015
+              Aug 2011 – June 2013
                 <span class="middot-divider"></span>
-                <span>College Park, MD</span>
+                <span>Los Angeles, CA</span>
             </div>
-            <div class="card-text">Lise Getoor's research lab (now located at UC Santa Cruz).</div>
+            <div class="card-text">Measured/simulated quality of Metrolink train control signals in Los Angeles metropolitan area.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+    <div class="row experience">
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col border-right">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border ">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col ">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      <div class="col py-2">
+        <div class="card">
+          <div class="card-body">
+            <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Associate (Full-Time)</h4>
+            <h4 class="card-title exp-company text-muted my-0">Telecommunications Research Center, National Taiwan University</h4>
+            <div class="text-muted exp-meta">
+              July 2009 – June 2010
+                <span class="middot-divider"></span>
+                <span>Taipei, Taiwan</span>
+            </div>
+            <div class="card-text">Designed reliable communication schemes for multi-path multi-hop cognitive radio networks.</div>
           </div>
         </div>
       </div>
