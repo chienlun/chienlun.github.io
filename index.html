@@ -6,18 +6,19 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <!--<meta name="generator" content="Source Themes Academic 4.7.0">-->
+  <meta name=generator content="Wowchemy 5.0.0-beta.1 for Hugo">
 
   <meta name="author" content="Chien-Lun Chen">
   <meta name="description" content="Researcher">
 
   <link rel="alternate" hreflang="en-us" href="https://chienlun.github.io/">
-  
+  <link rel=preconnect href=https://fonts.gstatic.com crossorigin>
   <meta name="theme-color" content="#2962ff"> <!-- #00D6FF -->
   
   <script src="/js/mathjax-config.js"></script>
   
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+  <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
   <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin=anonymous>
   <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin=anonymous>
   <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css crossorigin=anonymous title=hl-light>
@@ -66,7 +67,8 @@
 
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class=page-wrapper>
+<script src=/js/wowchemy-init.js></script>
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -135,11 +137,30 @@
     </div>
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        <!--<a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>-->
+        <a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a>
       </li>
+      <!--
       <li class="nav-item">
         <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
       </li>
+      -->
+      <li class="nav-item dropdown theme-dropdown">
+				<a href=# class=nav-link data-toggle=dropdown aria-haspopup=true aria-label="Display preferences">
+					<i class="fas fa-moon" aria-hidden=true></i>
+				</a>
+				<div class=dropdown-menu>
+					<a href=# class="dropdown-item js-set-theme-light">
+						<span>Light</span>
+					</a>
+					<a href=# class="dropdown-item js-set-theme-dark">
+						<span>Dark</span>
+					</a>
+					<a href=# class="dropdown-item js-set-theme-auto">
+						<span>Automatic</span>
+					</a>
+				</div>
+			</li>
     </ul>
   </div>
 </nav>
@@ -177,7 +198,7 @@
         </li>
         <li>
           <a href="https://www.linkedin.com/in/chienlun/" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin-in big-icon"></i>
+            <i class="fab fa-linkedin big-icon"></i>
           </a>
         </li>
         <li>
@@ -185,6 +206,13 @@
             <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
+        <!--
+				<li>
+					<a href=https://github.com/gcushen target=_blank rel=noopener aria-label=github>
+						<i class="fab fa-github big-icon"></i>
+					</a>
+				</li>
+				-->
         <li>
           <a href="files/CV_Chien_Lun_Chen.pdf" target="_blank" rel="noopener">
             <i class="ai ai-cv big-icon"></i>
@@ -710,7 +738,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
         <span id="person-email"><a href="mailto:chienlun.chen@gmail.com">chienlun.chen@gmail.com</a></span>
       </li>
       <li>
-        <i class="fa-li fab fa-linkedin-in fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fab fa-linkedin fa-2x" aria-hidden="true"></i>
         <a href="https://www.linkedin.com/in/chienlun/" target="_blank" rel="noopener">Linkedin</a>
       </li>
     </ul>
