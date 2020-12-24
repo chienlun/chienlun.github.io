@@ -274,24 +274,23 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Recent Posts</h1>
-    
   </div>
   <div class="col-12 col-lg-8">
+
 
 
 <div class="media stream-item">
   <div class="media-body">
     <h3 class="article-title mb-0 mt-0">
-      <a href="/post/neurips_2020/" >NeurIPS 2020</a>
+      <a href="/post/neurips-spicyfl-20/" >Best Paper Award Nominee (NeurIPS SpicyFL 2020)</a>
     </h3>
     <div class="article-style">
-      I will serve as an area chair for <a href="https://neurips.cc/Conferences/2020">NeurIPS 2020</a>.
+      Our work <a href="/publication/backdoor-spicyfl-20/" target="_blank" rel="noopener">Backdoor Attacks on Federated Meta-Learning</a> is nominated best paper award at <a href="http://icfl.cc/SpicyFL/2020/" target="_blank" rel="noopener">NeurIPS SpicyFL 2020</a>!
     </div>
     <div class="stream-meta article-metadata">
-
 <div class="article-metadata">
   <span class="article-date">
-    Mar 15, 2020
+    Dec 04, 2020
   </span>
   <span class="middot-divider"></span>
   <span class="article-reading-time">
@@ -306,58 +305,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   
 
 <!-- 
-<div class="media stream-item">
-  <div class="media-body">
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/icml_ijcai_2020/" >ICML &amp; IJCAI 2020 </a>
-    </h3>
-    <div class="article-style">
-      I will serve as an area chair for <a href="https://icml.cc/Conferences/2020">ICML 2020</a> and a Sr. PC member for <a href="https://ijcai20.org/">IJCAI 2020</a>.
-    </div>
-    <div class="stream-meta article-metadata">
 
-<div class="article-metadata">
-  <span class="article-date">
-    Jan 17, 2020
-  </span>
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-</div>
-    </div>
-  </div>
-  <div class="ml-3">
-  </div>
-</div>
-
- 
- 
-
-<div class="media stream-item">
-  <div class="media-body">
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/mlwg_workshop/" >NeurIPS Workshop: ML with Guarantees</a>
-    </h3>
-    <div class="article-style">
-      I am co-organizing the NeurIPS 2019 <a href="https://sites.google.com/view/mlwithguarantees">Workshop on Machine Learning with Guarantees</a>.
-    </div>
-    <div class="stream-meta article-metadata">
-
-<div class="article-metadata">
-  <span class="article-date">
-    Dec 14, 2019
-  </span>
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-</div>
-    </div>
-  </div>
-  <div class="ml-3">
-  </div>
-</div>
 -->
 
 
@@ -372,19 +320,19 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   <!------------------------------------------------------------------- Experience ------------------------------------------------------------------->
 
   
-<!--
   <section id="experience" class="home-section wg-experience   "  >
     <div class="container">
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>Experience</h1>
-    
   </div>
   <div class="col-12 col-lg-8">
     
+    
+    
+    
     <div class="row experience">
-      
       <div class="col-auto text-center flex-column d-none d-sm-flex">
         <div class="row h-50">
           <div class="col ">&nbsp;</div>
@@ -398,20 +346,15 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
           <div class="col">&nbsp;</div>
         </div>
       </div>
-      
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Researcher</h4>
             <h4 class="card-title exp-company text-muted my-0">Amazon</h4>
             <div class="text-muted exp-meta">
-              Sep 2015 –
-
-                Present
-
+              Sep 2015 – Present
                 <span class="middot-divider"></span>
                 <span>Seattle, WA</span>
-              
             </div>
             <div class="card-text">I mainly work on bandits and offline policy optimization for recommendation problems.</div>
           </div>
@@ -419,8 +362,10 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
       </div>
     </div>
     
+    
+    
+    
     <div class="row experience">
-      
       <div class="col-auto text-center flex-column d-none d-sm-flex">
         <div class="row h-50">
           <div class="col border-right">&nbsp;</div>
@@ -434,20 +379,15 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
           <div class="col">&nbsp;</div>
         </div>
       </div>
-      
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Research Intern</h4>
             <h4 class="card-title exp-company text-muted my-0">Google Research</h4>
             <div class="text-muted exp-meta">
-              May 2014 –
-              
-                Aug 2014
-
+              May 2014 – Aug 2014
                 <span class="middot-divider"></span>
                 <span>New York, NY</span>
-              
             </div>
             <div class="card-text">Explored structured prediction methods for WebTables.</div>
           </div>
@@ -455,8 +395,10 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
       </div>
     </div>
     
+    
+    
+    
     <div class="row experience">
-      
       <div class="col-auto text-center flex-column d-none d-sm-flex">
         <div class="row h-50">
           <div class="col border-right">&nbsp;</div>
@@ -470,99 +412,23 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
           <div class="col">&nbsp;</div>
         </div>
       </div>
-      
       <div class="col py-2">
         <div class="card">
           <div class="card-body">
             <h4 class="card-title exp-title text-muted mt-0 mb-1">Graduate Research Assistant</h4>
             <h4 class="card-title exp-company text-muted my-0"><a href="https://linqs.soe.ucsc.edu/" target="_blank" rel="noopener">University of Maryland, LINQS Lab</a></h4>
             <div class="text-muted exp-meta">
-              Jan 2011 –
-              
-                Sep 2015
-
+              Jan 2011 – Sep 2015
                 <span class="middot-divider"></span>
                 <span>College Park, MD</span>
-              
             </div>
             <div class="card-text">Lise Getoor's research lab (now located at UC Santa Cruz).</div>
           </div>
         </div>
       </div>
     </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Analytic Software Engineer</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://sentrana.com" target="_blank" rel="noopener">Sentrana</a></h4>
-            <div class="text-muted exp-meta">
-              Sep 2008 –
-              
-                Aug 2010
 
-                <span class="middot-divider"></span>
-                <span>Washington, DC</span>
-              
-            </div>
-            <div class="card-text">Productionized statistical models.</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-    <div class="row experience">
-      
-      <div class="col-auto text-center flex-column d-none d-sm-flex">
-        <div class="row h-50">
-          <div class="col border-right">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-        <div class="m-2">
-          <span class="badge badge-pill border ">&nbsp;</span>
-        </div>
-        <div class="row h-50">
-          <div class="col ">&nbsp;</div>
-          <div class="col">&nbsp;</div>
-        </div>
-      </div>
-      
-      <div class="col py-2">
-        <div class="card">
-          <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">Software Engineer</h4>
-            <h4 class="card-title exp-company text-muted my-0"><a href="https://www.anthrotronix.com/" target="_blank" rel="noopener">Anthrotronix</a></h4>
-            <div class="text-muted exp-meta">
-              Feb 2008 –
-              
-                Aug 2010
-              
-              
-                <span class="middot-divider"></span>
-                <span>Siver Spring, MD</span>
-              
-            </div>
-            
-          </div>
-        </div>
-      </div>
-    </div>
+   
     
     
   </div>
@@ -570,7 +436,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
     </div>
   </section>
--->
+
   
 
 
