@@ -198,7 +198,7 @@
         </li>
         <li>
           <a href="https://www.linkedin.com/in/chienlun/" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin-in big-icon"></i>
+            <i class="fab fa-linkedin big-icon"></i>
           </a>
         </li>
         <li>
@@ -206,6 +206,13 @@
             <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
+        <!--
+				<li>
+					<a href=https://github.com/gcushen target=_blank rel=noopener aria-label=github>
+						<i class="fab fa-github big-icon"></i>
+					</a>
+				</li>
+				-->
         <li>
           <a href="files/CV_Chien_Lun_Chen.pdf" target="_blank" rel="noopener">
             <i class="ai ai-cv big-icon"></i>
@@ -565,13 +572,13 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   <span>Chien-Lun Chen, Leana Golubchik, Marco Paolieri</span>
   </div>
   <div class="btn-links">
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/backdoor-spicyfl-20/backdoor-spicyfl-20.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/backdoor-spicyfl-20/backdoor-spicyfl-20.pdf" target="_blank" rel="noopener">
   PDF
 </a>
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/backdoor-spicyfl-20/backdoor-spicyfl-20-poster.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/publication/backdoor-spicyfl-20/backdoor-spicyfl-20-poster.pdf" target="_blank" rel="noopener">
   Poster
 </a>
-<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+<button type=button class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
         data-filename="/publication/backdoor-spicyfl-20/cite.bib">
   Cite
 </button>
@@ -731,7 +738,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
         <span id="person-email"><a href="mailto:chienlun.chen@gmail.com">chienlun.chen@gmail.com</a></span>
       </li>
       <li>
-        <i class="fa-li fab fa-linkedin-in fa-2x" aria-hidden="true"></i>
+        <i class="fa-li fab fa-linkedin fa-2x" aria-hidden="true"></i>
         <a href="https://www.linkedin.com/in/chienlun/" target="_blank" rel="noopener">Linkedin</a>
       </li>
     </ul>
