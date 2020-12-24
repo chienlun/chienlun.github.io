@@ -688,18 +688,18 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=featurette-icon>
-					<i class="fab fa-r-project">
+					<i class="fab fa-python">
 					</i>
 				</div>
-				<h3>R</h3>
-				<p>90%</p>
+				<h3>Python</h3>
+				<p>Experience with building federated meta-learning in which poisoning attack is performed</p>
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=featurette-icon>
-					<i class="fas fa-chart-line">
+					<i href="/images/Matlab.png">
 					</i>
 				</div>
-				<h3>Statistics</h3>
+				<h3>Matlab</h3>
 				<p>100%</p>
 			</div>
 			<div class="col-12 col-sm-4">
