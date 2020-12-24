@@ -188,19 +188,16 @@
 <div class="article-metadata">
   <div>
   <!--<span><a href="/authors/ben-london/">Chien-Lun Chen</a></span>, <span><a href="/authors/leana-golubchik/">Leana Golubchik</a></span>-->
-  <span>Chien-Lun Chen, Leana Golubchik, Marco Paolieri</span>
+  <span>I-Wei Lai, Chien-Lun Chen, Chia-Han Lee, Kwang-Cheng Chen, Ezio Biglieri</span>
   </div>
   <span class="article-date">
-    December 2020
+    January 2014
   </span>
 </div>
 
 <div class="btn-links mb-3">
 <a class="btn btn-outline-primary my-1 mr-1" href="/publication/crn-twc-13/crn-twc-13.pdf" target="_blank" rel="noopener">
   PDF
-</a>
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/crn-twc-13/crn-twc-13-poster.pdf" target="_blank" rel="noopener">
-  Poster
 </a>
 <button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
         data-filename="/publication/crn-twc-13/cite.bib">
@@ -232,7 +229,7 @@
           <div class="col-12 col-md-9">
             <!--<a href="/publication/#1">-->
             <a>
-              Conference Proceedings
+              Journal Articles
             </a>
           </div>
         </div>
@@ -246,23 +243,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em><a href="http://icfl.cc/SpicyFL/2020/" target="_blank" rel="noopener">NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning (NeurIPS-SpicyFL), 2020</a></em></div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Award</div>
-          <div class="col-12 col-md-9">
-            <a>
-              Best Paper Award Nominee
-            </a>
-          </div>
+          <div class="col-12 col-md-9"><em><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693" target="_blank" rel="noopener">IEEE Transactions on Wireless Communications</a></em></div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -278,32 +259,32 @@
 <div class="share-box" aria-hidden="true">
   <ul class="share">
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://chienlun.github.io/publication/crn-twc-13/&amp;text=Backdoor%20Attacks%20on%20Federated%20Meta-Learning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://chienlun.github.io/publication/crn-twc-13/&amp;text=End-to-End%20Virtual%20MIMO%20Transmission%20in%20Ad%20Hoc%20Cognitive%20Radio%20Networks" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://chienlun.github.io/publication/crn-twc-13/&amp;t=Backdoor%20Attacks%20on%20Federated%20Meta-Learning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://chienlun.github.io/publication/crn-twc-13/&amp;t=End-to-End%20Virtual%20MIMO%20Transmission%20in%20Ad%20Hoc%20Cognitive%20Radio%20Networks" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
       <li>
-        <a href="mailto:?subject=Backdoor%20Attacks%20on%20Federated%20Meta-Learning&amp;body=https://chienlun.github.io/publication/crn-twc-13/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=End-to-End%20Virtual%20MIMO%20Transmission%20in%20Ad%20Hoc%20Cognitive%20Radio%20Networks&amp;body=https://chienlun.github.io/publication/crn-twc-13/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://chienlun.github.io/publication/crn-twc-13/&amp;title=Backdoor%20Attacks%20on%20Federated%20Meta-Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://chienlun.github.io/publication/crn-twc-13/&amp;title=End-to-End%20Virtual%20MIMO%20Transmission%20in%20Ad%20Hoc%20Cognitive%20Radio%20Networks" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
       <li>
-        <a href="https://web.whatsapp.com/send?text=Backdoor%20Attacks%20on%20Federated%20Meta-Learning%20https://chienlun.github.io/publication/crn-twc-13/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=End-to-End%20Virtual%20MIMO%20Transmission%20in%20Ad%20Hoc%20Cognitive%20Radio%20Networks%20https://chienlun.github.io/publication/crn-twc-13/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://chienlun.github.io/publication/crn-twc-13/&amp;title=Backdoor%20Attacks%20on%20Federated%20Meta-Learning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://chienlun.github.io/publication/crn-twc-13/&amp;title=End-to-End%20Virtual%20MIMO%20Transmission%20in%20Ad%20Hoc%20Cognitive%20Radio%20Networks" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
