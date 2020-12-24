@@ -134,7 +134,7 @@
           <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link " href="/#experience" data-target="#experience"><span>Experience</span></a>
@@ -163,26 +163,11 @@
 </nav>
 
 
-  <div class="pub">
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
 
   
   <!------------------------------------------------------------------- START ------------------------------------------------------------------->
-  
+<div class="pub">
 <div class="article-container pt-3">
   <h1>Backdoor Attacks on Federated Meta-Learning</h1>
 <div class="article-metadata">

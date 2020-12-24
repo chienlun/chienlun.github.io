@@ -189,7 +189,7 @@
   <div class="article-container">
     <div class="article-style">
       <p>Our work <a href="/publication/backdoor-spicyfl-20/" target="_blank" rel="noopener">Backdoor Attacks on Federated Meta-Learning</a> is nominated best paper award at <a href="http://icfl.cc/SpicyFL/2020/" target="_blank" rel="noopener">NeurIPS SpicyFL 2020</a>!</p>
-      <p>In this work, we investigated backdoor attacks and the associated defense methods in federated meta-learning. We showed the effects of a one-shot backdoor attack can persist tens to hundreds of rounds in federated meta-learning; the fast-adaptation ability of meta-learning does not effectively remove backdoors during federated meta-training as well as during fine-tuning. Therefore, we proposed an effective local defense mechanism using matching network fine-tuning with customized attention mechanism to eliminate backdoors without a centralized approach inspecting user updates; backdoor accuracy can drop to as low as 0% in only a few iterations.</p>
+      <p>In this work, we investigated backdoor attacks and the associated defense methods in federated meta-learning. We showed the effects of a one-shot backdoor attack can persist tens to hundreds of rounds in federated meta-learning; the fast-adaptation ability of meta-learning does not effectively remove backdoors during federated meta-training as well as during fine-tuning. In view of this, we proposed an effective local defense mechanism using matching network fine-tuning with customized attention mechanism to eliminate backdoors without a centralized approach inspecting user updates; backdoor accuracy can drop to as low as 0% in only a few iterations.</p>
     </div>
 <div class="share-box" aria-hidden="true">
   <ul class="share">
