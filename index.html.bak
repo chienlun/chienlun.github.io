@@ -45,21 +45,21 @@
   <meta property="og:image" content="https://chienlun.github.io/images/CL-512x512.png">  
   <meta property="og:updated_time" content="2020-12-22T00:00:00&#43;00:00">
 
-  
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://chienlun.github.io/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  },
-  "url": "https://chienlun.github.io/"
-}
-</script>
+	<script type="application/ld+json">
+	{
+	  "@context": "https://schema.org",
+	  "@type": "WebSite",
+	  "potentialAction": {
+	    "@type": "SearchAction",
+	    "target": "https://chienlun.github.io/?q={search_term_string}",
+	    "query-input": "required name=search_term_string"
+	  },
+	  "url": "https://chienlun.github.io/"
+	}
+	</script>
+	
   <title>Chien-Lun Chen</title>
+  
 </head>
 
 
@@ -92,9 +92,11 @@
       </div>
     </section>
   </div>
-</aside>
+	</aside>
 
 
+
+<div class=page-header>
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
     <div class="d-none d-lg-inline-flex">
@@ -140,6 +142,7 @@
 
       </ul>
     </div>
+    
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       <li class="nav-item">
         <!--<a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>-->
@@ -169,6 +172,7 @@
     </ul>
   </div>
 </nav>
+</div>
 
 
 
@@ -177,8 +181,6 @@
 
 <div class=page-body>
 <span class="js-widget-page d-none"></span>
-
-
 
   <section id="about" class="home-section wg-about   "  >
     <div class="container">
@@ -756,14 +758,39 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   <!------------------------------------------------------------------- END ------------------------------------------------------------------->
 
 
-	<div class=page-footer>
-		<div class=container>
-			<footer class=site-footer>
-				<p class=powered-by></p>
-				<p class=powered-by>Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-modules target=_blank rel=noopener>open source</a> website builder that empowers creators.</p>
-			</footer>
-		</div>
+<div class=page-footer>
+	<div class=container>
+		<footer class=site-footer>
+			<p class=powered-by></p>
+			<p class=powered-by>Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target=_blank rel=noopener>Wowchemy</a> — the free, <a href=https://github.com/wowchemy/wowchemy-hugo-modules target=_blank rel=noopener>open source</a> website builder that empowers creators.</p>
+		</footer>
 	</div>
+</div>
+	
+	<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
 	
 	
 	
@@ -826,30 +853,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
   </div>
   
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
+
 -->
 
 
