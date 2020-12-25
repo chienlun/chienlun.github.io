@@ -144,11 +144,11 @@
         <!--<a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>-->
         <a class="nav-link js-search" href=# aria-label=Search><i class="fas fa-search" aria-hidden=true></i></a>
       </li>
-      
+      <!--
       <li class="nav-item">
         <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
       </li>
-      <!--
+      -->
       <li class="nav-item dropdown theme-dropdown">
 				<a href=# class=nav-link data-toggle=dropdown aria-haspopup=true aria-label="Display preferences">
 					<i class="fas fa-moon" aria-hidden=true></i>
@@ -165,8 +165,6 @@
 					</a>
 				</div>
 			</li>
-			-->
-
     </ul>
   </div>
 </nav>
@@ -263,21 +261,21 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">Ph.D. in Electrical Engineering, 2020</p>
+              <p class="course">PhD in Electrical Engineering, 2020</p>
               <p class="institution">University of Southern California</p>
             </div>
           </li>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">M.S. in Communications Engineering, 2009</p>
+              <p class="course">MS in Communications Engineering, 2009</p>
               <p class="institution">National Taiwan University, Taiwan</p>
             </div>
           </li>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">B.S. in Atomic Science, 2004</p>
+              <p class="course">BS in Atomic Science, 2004</p>
               <p class="institution">National Tsing Hua University, Taiwan</p>
             </div>
           </li>
@@ -840,6 +838,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
     </div>
   </div>
 </div>
+
 
 </body>
 </html>
