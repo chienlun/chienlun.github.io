@@ -67,7 +67,7 @@
 
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class=page-wrapper>
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper">
 <script src=/js/wowchemy-init.js></script>
 
   <aside class="search-results" id="search">
@@ -681,17 +681,17 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
 
 
-<section id=skills class="home-section wg-featurette">
+<section id=skills class="home-section wg-skills">
 	<div class=home-section-bg>
 		
 	</div>
 	<div class=container>
-		<div class="row featurette">
+		<div class="row skills">
 			<div class="col-md-12 section-heading">
 				<h1>Skills</h1>
 			</div>
 			<div class="col-12 col-sm-4">
-				<div class=featurette-icon>
+				<div class=skills-icon>
 					<i class="fab fa-python">
 					</i>
 				</div>
@@ -699,7 +699,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 				<p>Experience with building federated meta-learning in which poisoning attack is performed</p>
 			</div>
 			<div class="col-12 col-sm-4">
-				<div class=featurette-icon>
+				<div class=skills-icon>
 					<i class="fab fa-matlab">
 					</i>
 				</div>
@@ -707,7 +707,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 				<p>Experience with simulating an end-to-end wireless MIMO-OFDM environment</p>
 			</div>
 			<div class="col-12 col-sm-4">
-				<div class=featurette-icon>
+				<div class=skills-icon>
 					<i class="fas fa-C">
 					</i>
 				</div>
@@ -765,8 +765,9 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
     <script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js></script>
     <script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js></script>
     <script src=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin=anonymous></script><script>const code_highlighting=true;</script><script>const search_config={"indexURI":"/index.json","minLength":1,"threshold":0.3};const i18n={"no_results":"No results found","placeholder":"Search...","results":"results found"};const content_type={'post':"Posts",'project':"Projects",'publication':"Publications",'talk':"Talks",'slides':"Slides"};</script>
-    <script>const code_highlighting = true;</script>
     
+    <!--
+    <script>const code_highlighting = true;</script>
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
       const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
@@ -777,6 +778,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
         'talk' : "Talks"
         };
     </script>
+    -->
     
     <script id="search-hit-fuse-template" type="text/x-template">
       <div class="search-hit" id="summary-{{key}}">
