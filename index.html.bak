@@ -696,23 +696,24 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 					</i>
 				</div>
 				<h3>Python</h3>
-				<p>Experience with building federated meta-learning in which poisoning attack is performed</p>
+				<p>Federated meta-learning</p>
+				<p>Poisoning backdoor attacks</p>
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=skills-icon>
-					<i class="fab fa-matlab">
+					<i class="">
 					</i>
 				</div>
 				<h3>Matlab</h3>
-				<p>Experience with simulating an end-to-end wireless MIMO-OFDM environment</p>
+				<p>End-to-end wireless MIMO-OFDM</p>
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=skills-icon>
-					<i class="fas fa-C">
+					<i class="">
 					</i>
 				</div>
 				<h3>C/C++</h3>
-				<p>Experience with helping students debug programming assignments in TA jobs</p>
+				<p>Programming assignments in TA jobs</p>
 			</div>
 		</div>
 	</div>
