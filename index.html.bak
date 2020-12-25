@@ -761,7 +761,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
     <script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js></script>
     <script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js></script>
     <script src=https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin=anonymous></script><script>const code_highlighting=true;</script><script>const search_config={"indexURI":"/index.json","minLength":1,"threshold":0.3};const i18n={"no_results":"No results found","placeholder":"Search...","results":"results found"};const content_type={'post':"Posts",'project':"Projects",'publication':"Publications",'talk':"Talks",'slides':"Slides"};</script>
-    <script>const code_highlighting = true;</script>
+    <!--<script>const code_highlighting = true;</script>-->
     
     <script>
       const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
@@ -790,7 +790,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
     <script src=https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin=anonymous></script>
     <script>if(window.netlifyIdentity){window.netlifyIdentity.on("init",user=>{if(!user){window.netlifyIdentity.on("login",()=>{document.location.href="/admin/";});}});}</script>
     <script src=/js/wowchemy.min.abf79d5abd9391a904c9b122bfe98c04.js></script></body></html>
-    <script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>
+    <!--<script src="/js/academic.min.a0d331bcd05dbe8b31e244f796710f08.js"></script>-->
 
   <div class="container">
     <footer class="site-footer">
