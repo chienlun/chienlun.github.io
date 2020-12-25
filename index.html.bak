@@ -14,7 +14,7 @@
 
   <link rel="alternate" hreflang="en-us" href="https://chienlun.github.io/">
   <link rel=preconnect href=https://fonts.gstatic.com crossorigin>
-  <meta name="theme-color" content="#00D6FF"> <!-- #00D6FF, #2962ff -->
+  <meta name="theme-color" content="#2962ff"> <!-- #00D6FF, #2962ff -->
   
   <!--<script src="/js/mathjax-config.js"></script>-->
   
@@ -28,7 +28,7 @@
   <script src=https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.2.2/lazysizes.min.js integrity="sha512-TmDwFLhg3UA4ZG0Eb4MIyT1O1Mb+Oww5kFG0uHqXsdbyZz9DcvYQhKpGgNkamAI6h2lGGZq2X8ftOJvF/XjTUg==" crossorigin=anonymous async></script>
   <!--<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>-->
   <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
-  <!--<link rel="stylesheet" href="/css/academic.css">-->
+  <link rel="stylesheet" href="/css/academic.css">
   <link rel=stylesheet href=/css/wowchemy.min.18a81fcba9746c6a8230584f1af667d5.css>
   <script src=https://identity.netlify.com/v1/netlify-identity-widget.js></script>
   
@@ -264,21 +264,21 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Electrical Engineering, 2020</p>
+              <p class="course">Ph.D. in Electrical Engineering, 2020</p>
               <p class="institution">University of Southern California</p>
             </div>
           </li>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">MS in Communications Engineering, 2009</p>
+              <p class="course">M.S. in Communications Engineering, 2009</p>
               <p class="institution">National Taiwan University, Taiwan</p>
             </div>
           </li>
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">BS in Atomic Science, 2004</p>
+              <p class="course">B.S. in Atomic Science, 2004</p>
               <p class="institution">National Tsing Hua University, Taiwan</p>
             </div>
           </li>
