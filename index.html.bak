@@ -239,7 +239,7 @@
 
 
 
-  <section id="about" class="home-section wg-about " style="padding:0 0"  >
+  <section id="about" class="home-section wg-about " style="padding:20px 0"  >
 
 		<div><img src="/images/taipei_tiny.jpg"; style='height: auto; width: 100%; object-fit: contain'/></div>
 		
@@ -366,7 +366,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
   	  <!------------------------------------------------------------------- Posts ------------------------------------------------------------------->
 
-<section id="posts" class="home-section wg-posts   " style="margin-top:20px;padding:20px 20px"  >
+<section id="posts" class="home-section wg-posts   " style="padding:20px 20px"  >
 <div class="container">
 
 <div class="row">
@@ -431,7 +431,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
 <!------------------------------------------------------------------- Experience ------------------------------------------------------------------->
 
-  <section id="experience" class="home-section wg-experience   " style="margin-top:20px;padding:20px 20px"    >
+  <section id="experience" class="home-section wg-experience   " style="padding:20px 20px"    >
     
     <div class="container">
 
@@ -613,7 +613,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   <!------------------------------------------------------------------- Research ------------------------------------------------------------------->
 
 
-  <section id="featured" class="home-section wg-featured   " style="margin-top:20px;padding:20px 20px"    >
+  <section id="featured" class="home-section wg-featured   " style="padding:20px 20px"    >
     <div class="container">
 
 <div class="row">
@@ -738,7 +738,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
 
 
-<section id=skills class="home-section wg-featurette" style="margin-top:20px;padding:20px 20px"  >
+<section id=skills class="home-section wg-featurette" style="padding:20px 20px"  >
 	<div class=home-section-bg>
 		
 	</div>
@@ -783,7 +783,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   <!------------------------------------------------------------------- CONTACT ------------------------------------------------------------------->
 
 
-  <section id="contact" class="home-section wg-contact   " style="margin-top:20px;padding:20px 20px"    >
+  <section id="contact" class="home-section wg-contact   " style="padding:20px 20px"    >
     <div class="container">
 
 
