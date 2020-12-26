@@ -185,12 +185,16 @@
 <span class="js-widget-page d-none"></span>
 
 
-	<section id=demo class="home-section wg-blank dark" style="padding:20px 0">
+	<section id=welcome class="home-section wg-blank dark" style="padding:20px 0">
+		<div>
+    	<img src="http://i.stack.imgur.com/xkF9Q.jpg">
+		</div>
+		<!--
 		<div class="home-section-bg bg-image parallax" style="background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('https://chienlun.github.io/images/taipei.jpg');background-size:cover;background-position:50%"></div>
 		<div class=container>
 			<div class="row justify-content-center">
 				<div class="col-12 section-heading text-center">
-					<h1>Demos</h1>
+					<h1> </h1>
 				</div>
 				<div class=col-12>
 					<p> </p>
@@ -201,17 +205,16 @@
 					<p> </p>
 					<p> </p>
 					<p> </p>
-					<!--
 					<div class="alert alert-note">
 						<div>
 							<p> </p>
 							<p> </p>
 						</div>
 					</div>
-					-->
 				</div>
 			</div>
 		</div>
+		-->
 	</section>
 
 
