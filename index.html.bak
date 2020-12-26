@@ -244,13 +244,16 @@
 		<div>
 			<picture>
 				 <source 
-			      media="(max-width: 3500px) and (min-width: 3001px)"
+			      media="(min-width: 7001px)"
+			      srcset="/images/taipei_4k.jpg"; style="height: auto; width: 100%; object-fit: contain">
+				 <source 
+			      media="(max-width: 7000px) and (min-width: 4001px)"
 			      srcset="/images/taipei_large.jpg"; style="height: auto; width: 100%; object-fit: contain">
 				 <source 
-			      media="(max-width: 3000px) and (min-width: 2501px)"
+			      media="(max-width: 4000px) and (min-width: 3001px)"
 			      srcset="/images/taipei.jpg"; style="height: auto; width: 100%; object-fit: contain">
 				 <source 
-			      media="(max-width: 2500px) and (min-width: 2001px)"
+			      media="(max-width: 3000px) and (min-width: 2501px)"
 			      srcset="/images/taipei_small.jpg"; style="height: auto; width: 100%; object-fit: contain">
 			   <source 
 			      media="(max-width: 2500px) and (min-width: 1201px)"
@@ -283,24 +286,24 @@
           </a>
         </li>
         <li>
-          <a href="https://www.linkedin.com/in/chienlun/" target="_blank" rel="noopener">
+          <a href="https://www.linkedin.com/in/chienlun/" target="_blank" rel="noopener" aria-label="Linkedin">
             <i class="fab fa-linkedin big-icon"></i>
           </a>
         </li>
         <li>
-          <a href="https://scholar.google.com/citations?user=MlHy0P0AAAAJ&hl" target="_blank" rel="noopener">
+          <a href="https://scholar.google.com/citations?user=MlHy0P0AAAAJ&hl" target="_blank" rel="noopener" aria-label="Google Scholar">
             <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
         <!--
 				<li>
-					<a href=https://github.com/gcushen target=_blank rel=noopener aria-label=github>
+					<a href="https://github.com/chienlun" target="_blank" rel="noopener" aria-label="Github">
 						<i class="fab fa-github big-icon"></i>
 					</a>
 				</li>
 				-->
         <li>
-          <a href="files/CV_Chien_Lun_Chen.pdf" target="_blank" rel="noopener">
+          <a href="files/CV_Chien_Lun_Chen.pdf" target="_blank" rel="noopener" aria-label="Curriculum Vitae">
             <i class="ai ai-cv big-icon"></i>
           </a>
         </li>
