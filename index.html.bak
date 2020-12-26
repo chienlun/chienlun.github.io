@@ -60,6 +60,21 @@
 	}
 	</script>
 	
+	<style>
+		p.small {
+		  line-height: 0.9;
+		}
+		p.big {
+		  line-height: 1.2;
+		}
+		h3.small {
+		  line-height: 0.9;
+		}
+		h3.big {
+		  line-height: 1.2;
+		}
+	</style>
+	
   <title>Chien-Lun Chen</title>
   
 </head>
@@ -223,9 +238,7 @@
 
 
   <section id="about" class="home-section wg-about " style="padding:0 0"  >
-  	<!--
-  	<div class="home-section-bg bg-image " style="background-image:linear-gradient(rgba(0,0,0,0.01),rgba(0,0,0,0.01)),url('https://chienlun.github.io/images/taipei_tiny.jpg');background-size:cover;background-position:center;width:100%;object-fit:contain;overflow:hidden;max-height:100%;max-width:100%;"></div>
-		-->
+
 		<div><img src="/images/taipei_tiny.jpg"; style='height: auto; width: 100%; object-fit: contain'/></div>
 		
     <div class="container">
@@ -242,7 +255,7 @@
           <span>University of Southern California</span>
         </h3>
       </div>
-      <ul class="network-icon" aria-hidden="true">
+      <ul class="network-icon" aria-hidden="true" margin-top:5px>
         <li>
           <a href="mailto:chienlun.chen@gmail.com" >
             <i class="fas fa-envelope big-icon"></i>
@@ -351,7 +364,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
   	  <!------------------------------------------------------------------- Posts ------------------------------------------------------------------->
 
-<section id="posts" class="home-section wg-posts   " style="padding:20px 0"  >
+<section id="posts" class="home-section wg-posts   " style="padding:20px 20px"  >
 <div class="container">
 
 <div class="row">
@@ -416,7 +429,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
 <!------------------------------------------------------------------- Experience ------------------------------------------------------------------->
 
-  <section id="experience" class="home-section wg-experience   " style="padding:20px 0"    >
+  <section id="experience" class="home-section wg-experience   " style="padding:20px 20px"    >
     
     <div class="container">
 
@@ -598,7 +611,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   <!------------------------------------------------------------------- Research ------------------------------------------------------------------->
 
 
-  <section id="featured" class="home-section wg-featured   " style="padding:20px 0"    >
+  <section id="featured" class="home-section wg-featured   " style="padding:20px 20px"    >
     <div class="container">
 
 <div class="row">
@@ -723,7 +736,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
 
 
-<section id=skills class="home-section wg-featurette" style="padding:20px 0"  >
+<section id=skills class="home-section wg-featurette" style="padding:20px 20px"  >
 	<div class=home-section-bg>
 		
 	</div>
@@ -768,7 +781,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
   <!------------------------------------------------------------------- CONTACT ------------------------------------------------------------------->
 
 
-  <section id="contact" class="home-section wg-contact   " style="padding:20px 0"    >
+  <section id="contact" class="home-section wg-contact   " style="padding:20px 20px"    >
     <div class="container">
 
 
