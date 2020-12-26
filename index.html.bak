@@ -250,12 +250,12 @@
       <img class="portrait" src="/authors/admin/chienlunchen.jpg" alt="Linkedin">
       <div class="portrait-title">
         <h2>Chien-Lun Chen</h2>
-        <h3>Researcher</h3>
-        <h3>
+        <h3 class="small">Researcher</h3>
+        <h3 class="small">
           <span>University of Southern California</span>
         </h3>
       </div>
-      <ul class="network-icon" aria-hidden="true" margin-top:5px>
+      <ul class="network-icon" aria-hidden="true" style="margin-top:5px">
         <li>
           <a href="mailto:chienlun.chen@gmail.com" >
             <i class="fas fa-envelope big-icon"></i>
