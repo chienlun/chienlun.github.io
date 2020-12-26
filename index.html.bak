@@ -73,8 +73,8 @@
 		h3.big {
 		  line-height: 1.2;
 		}
-		i.matlab_icon {
-		  background: url("/images/matlab.png");
+		i.matlab {
+		  background: url("https://chienlun.github.io/images/matlab.png");
 		  height: 16px;
 		  width: 16px;
 		  display: block;
@@ -785,8 +785,8 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 				<p class="small" style="margin-top:-15px">Federated Learning; Poisoning Attacks</p>
 			</div>
 			<div class="col-12 col-sm-4">
-				<div class=featurette-icon>
-					<i class="matlab_icon">
+				<div>
+					<i class="matlab">
 					</i>
 				</div>
 				<h3>Matlab</h3>
