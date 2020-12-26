@@ -184,9 +184,9 @@
 <div class=page-body>
 <span class="js-widget-page d-none"></span>
 
-	<section id=welcome>	
-	<!--<section id=welcome class="home-section wg-blank dark" style="padding:100% 100%">-->
-		<!--
+
+	<!--
+	<section id=welcome class="home-section wg-blank dark" style="padding:100% 100%">
 		#container{
     width: 300px;
     height: 300px;
@@ -194,17 +194,13 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-		}parallax
-		--> 
-		<div class="home-section-bg bg-image " style="background-image:linear-gradient(rgba(0,0,0,0.01),rgba(0,0,0,0.01)),url('https://chienlun.github.io/images/taipei_tiny.jpg');background-size:cover;background-position:center;width:100%;object-fit:contain;overflow:hidden;max-height:100%;max-width:100%;"></div>
+		}
 
-		<!--
 		<div>
     	<img src="/images/taipei_tiny.jpg"; style='height: auto; width: 100%; object-fit: contain'/>  
 		</div>
-		-->
+
 		<div class=container>
-			<!--
 			<div class="row justify-content-center">
 				<div class="col-12 section-heading text-center">
 					<h1> </h1>
@@ -226,14 +222,16 @@
 					</div>
 				</div>
 			</div>
-			-->
 		</div>
 	</section>
-
+	-->
 
 
 
   <section id="about" class="home-section wg-about   "  >
+  	
+  	<div class="home-section-bg bg-image parallax" style="background-image:linear-gradient(rgba(0,0,0,0.01),rgba(0,0,0,0.01)),url('https://chienlun.github.io/images/taipei_tiny.jpg');background-size:cover;background-position:center;width:100%;object-fit:contain;overflow:hidden;max-height:100%;max-width:100%;"></div>
+
     <div class="container">
       
 
