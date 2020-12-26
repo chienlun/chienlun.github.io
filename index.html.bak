@@ -239,7 +239,7 @@
 
 
 
-  <section id="about" class="home-section wg-about " style="padding:0 0"  >
+  <section id="about" class="home-section wg-about " style="padding:0 20px"  >
 
 		<div><img src="/images/taipei_tiny.jpg"; style='height: auto; width: 100%; object-fit: contain'/></div>
 		
@@ -366,7 +366,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 
   	  <!------------------------------------------------------------------- Posts ------------------------------------------------------------------->
 
-<section id="posts" class="home-section wg-posts   " style="padding:50px 10px"  >
+<section id="posts" class="home-section wg-posts   " style="padding:50px 0"  >
 <div class="container">
 
 <div class="row">
