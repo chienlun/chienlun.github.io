@@ -241,7 +241,19 @@
 
   <section id="about" class="home-section wg-about " style="padding:0 0"  >
 
-		<div><img src="/images/taipei_tiny.jpg"; style='height: auto; width: 100%; object-fit: contain'/></div>
+		<div>
+			<picture>
+			   <source 
+			      media="(min-width: 400px)"
+			      srcset="/images/taipei_tiny.jpg"; style='height: auto; width: 100%; object-fit: contain>
+			   <source 
+			      media="(min-width: 300px)"
+			      srcset="/images/taipei_large.jpg"; style='height: auto; width: 100%; object-fit: contain>
+			   <img src="/images/taipei_tiny.jpg"; style='height: auto; width: 100%; object-fit: contain/>
+			   alt="">
+			</picture>
+			<!--<img src="/images/taipei_tiny.jpg"; style='height: auto; width: 100%; object-fit: contain/>-->
+		</div>
 		
     <div class="container">
       
