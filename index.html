@@ -243,8 +243,17 @@
 
 		<div>
 			<picture>
+				 <source 
+			      media="(max-width: 3500px) and (min-width: 3001px)"
+			      srcset="/images/taipei_large.jpg"; style="height: auto; width: 100%; object-fit: contain">
+				 <source 
+			      media="(max-width: 3000px) and (min-width: 2501px)"
+			      srcset="/images/taipei.jpg"; style="height: auto; width: 100%; object-fit: contain">
+				 <source 
+			      media="(max-width: 2500px) and (min-width: 2001px)"
+			      srcset="/images/taipei_small.jpg"; style="height: auto; width: 100%; object-fit: contain">
 			   <source 
-			      media="(min-width: 1201px)"
+			      media="(max-width: 2500px) and (min-width: 1201px)"
 			      srcset="/images/taipei_tiny.jpg"; style="height: auto; width: 100%; object-fit: contain">
 			   <source 
 			      media="(max-width: 1200px) and (min-width: 1px)"
