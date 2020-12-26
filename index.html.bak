@@ -789,7 +789,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=featurette-icon style="text-align:center">
-					<center><img src="/images/matlab.png"; align="middle"; style="height:20%; width:20%; margin:110.5px 10px"; alt=""></center>
+					<center><img src="/images/matlab.png"; align="middle"; style="height:20%; width:20%; margin:10.5px 10px"; alt=""></center>
 				</div>
 				<h3>Matlab</h3>
 				<p>Used in wireless communications simulations</p>
