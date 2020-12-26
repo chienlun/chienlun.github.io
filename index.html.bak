@@ -62,7 +62,7 @@
 	
 	<style>
 		p.small {
-		  line-height: 0.85;
+		  line-height: 0.88;
 		}
 		p.big {
 		  line-height: 1.2;
@@ -72,6 +72,12 @@
 		}
 		h3.big {
 		  line-height: 1.2;
+		}
+		i.matlab_icon {
+		  background: url("/images/matlab.png");
+		  height: 16px;
+		  width: 16px;
+		  display: block;
 		}
 	</style>
 	
