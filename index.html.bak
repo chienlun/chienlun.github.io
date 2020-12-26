@@ -329,15 +329,15 @@
     <h1>About Me</h1>
 
     <p>
-    	I am a Researcher at University of Southern California, 
-    	where I research attacks and privacy-preserving defense mechanisms in federated learning, 
+    	I am a Researcher at University of Southern California.
+    	I research attacks and privacy-preserving defense mechanisms in federated learning, 
     	including federation of supervised learning as well as meta-learning.
     </p>
 		<p>
 			I earned my Ph.D. in 2020 at University of Southern California, where I was advised by Professor Leana Golubchik 
 			and worked closely with Dr. Ranajn Pal and Dr. Marco Paolieri. My dissertation studied security and privacy problems in 
 			various kinds of information processing schemes, such as machine learning, data-mining, data-publishing, and algorithmic transparency. 
-			My research experience includes communications and signal processing, as well as security and privacy in machine learning. 
+			My research experience includes security and privacy in machine learning, as well as communications and signal processing. 
 			I have also worked on: data anonymization; differential privacy; attacks/defenses in machine learning; 
 			privacy-fairness-transparency trade-offs; cognitive networks; pattern/speech recognition.
 		</p>
