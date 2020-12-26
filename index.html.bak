@@ -767,7 +767,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 	<div class=container>
 		<div class="row featurette">
 			<div class="col-md-12 section-heading">
-				<h1>Skills</h1>
+				<h1>Computer Skills</h1>
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=featurette-icon>
@@ -775,7 +775,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 					</i>
 				</div>
 				<h3>Python</h3>
-				<p>Experience: Federated Meta-Learning; Poisoning Attacks</p>
+				<p>Federated Learning (w/ Poisoning Attacks)</p>
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=featurette-icon>
@@ -783,7 +783,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 					</i>
 				</div>
 				<h3>Matlab</h3>
-				<p>Wireless MIMO-OFDM</p>
+				<p>End-to-End Wireless MIMO-OFDM (Phy Layer)</p>
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=featurette-icon>
