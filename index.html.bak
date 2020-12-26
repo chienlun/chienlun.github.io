@@ -228,7 +228,7 @@
 
 
 
-  <section id="about" class="home-section wg-about   "  >
+  <section id="about" class="home-section wg-about " style="margin:0;padding:0"  >
   	<!--
   	<div class="home-section-bg bg-image " style="background-image:linear-gradient(rgba(0,0,0,0.01),rgba(0,0,0,0.01)),url('https://chienlun.github.io/images/taipei_tiny.jpg');background-size:cover;background-position:center;width:100%;object-fit:contain;overflow:hidden;max-height:100%;max-width:100%;"></div>
 		-->
