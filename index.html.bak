@@ -279,7 +279,7 @@
           <span>University of Southern California</span>
         </h3>
       </div>
-      <ul class="network-icon" aria-hidden="true" style="margin-top:15px">
+      <ul class="network-icon" aria-hidden="False" style="margin-top:15px">
         <li>
           <a href="mailto:chienlun.chen@gmail.com" >
             <i class="fas fa-envelope big-icon"></i>
@@ -775,7 +775,7 @@ He is a co-organizer of the NeurIPS 2019 Workshop on ML with Guarantees, an area
 					</i>
 				</div>
 				<h3>Python</h3>
-				<p>Machine Learning & Attacks</p>
+				<p>Experience: Federated Meta-Learning; Poisoning Attacks</p>
 			</div>
 			<div class="col-12 col-sm-4">
 				<div class=featurette-icon>
