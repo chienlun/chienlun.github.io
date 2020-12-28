@@ -1,6 +1,0 @@
-@inproceedings{chen:spicyfl20,
- author = {Chien{-}Lun Chen and Leana Golubchik and Marco Paolieri},
- booktitle = {NeurIPS Workshop on Scalability, Privacy, and Security in Federated Learning (NeurIPS-SpicyFL)},
- title = {Backdoor Attacks on Federated Meta-Learning},
- year = {2020}
-}
